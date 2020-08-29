@@ -1,4 +1,4 @@
-# Türkiye hakkındaki verileri içermektedir. 
+# Türkiye hakkındaki veri dosyalarının içerikleri: 
 
 ### Türkiye İl_Merkez_Akarsu_Göl Harita.zip
 
