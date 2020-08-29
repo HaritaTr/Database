@@ -19,3 +19,7 @@
 ### İl Merkez Rakımları.xls
 
 + Türkiye il merkezlerinin rakımları (deniz ile arasındaki kod farkı) verileri bulunmaktadır.
+
+### İlçelerin Nüfusları (2019).xls
+
++ Türkiye ilçelerinin 2019 verilerini içermektedir.
