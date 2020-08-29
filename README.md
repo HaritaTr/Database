@@ -1,7 +1,7 @@
 # Türkiye hakkındaki verileri içermektedir. 
 
-+ Türkiye İl_Merkez_Akarsu_Göl Harita
+### Türkiye İl_Merkez_Akarsu_Göl Harita
 
-+ Türkiye illeri listesi
+### Türkiye İlleri Listesi
 
-+ İl merkez rakımları
+### İl Merkez Rakımları
