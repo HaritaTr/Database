@@ -12,6 +12,10 @@
 
 + Türkiye, Türkiye illeri ve Türkiye ilçelerinin shp uzantılı haritalarını içermektedir.
 
+### Türkiye_İl_İlçe Tek Dosya.zip
+
++ Türkiye, Türkiye illeri ve Türkiye ilçeleri verilerini tek .gpkg uzantısında sunmaktadır.
+
 ### İl Merkez Rakımları.xls
 
 + Türkiye il merkezlerinin rakımları (deniz ile arasındaki kod farkı) verileri bulunmaktadır.
