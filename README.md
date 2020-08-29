@@ -6,4 +6,8 @@
 
 ### Türkiye İlleri Listesi.xls
 
++ 
+
 ### İl Merkez Rakımları.xls
+
++ Türkiye il merkezlerinin rakımları (deniz ile arasındaki kod farkı) verileri bulunmaktadır.
