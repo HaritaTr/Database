@@ -1,3 +1,3 @@
-# HaritaTr
+# Türkiye hakkındaki verileri içermektedir. 
 
-Türkiye hakkında veriler içermektedir. 
++ 
