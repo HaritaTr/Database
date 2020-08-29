@@ -6,8 +6,8 @@
 
 ### Türkiye İlleri Listesi.xls
 
-+ Türkiye şehir sınır alanı (km²), nüfus (2019),	kişi/km²,	plaka kodu, telefon kodu, vali ismi 2019 verileri bulunmaktadır.
++ Türkiye şehir sınır alanı (km²), nüfus (2019), kişi/km², plaka kodu, telefon kodu, vali adı bilgileri bulunmaktadır.
 
 ### İl Merkez Rakımları.xls
 
-+ Türkiye il merkezlerinin rakımları (deniz ile arasındaki kod farkı) 2019 verileri bulunmaktadır.
++ Türkiye il merkezlerinin rakımları (deniz ile arasındaki kod farkı) verileri bulunmaktadır.
