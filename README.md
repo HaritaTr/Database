@@ -1,5 +1,9 @@
 # Türkiye hakkındaki veri dosyalarının içerikleri: 
 
+### Pafta.zip
+
++ Türkiye paftaları bulunmakta içerisinde.
+
 ### Türkiye İl_Merkez_Akarsu_Göl Harita.zip
 
 + İçerisinde il, il merkezleri, akarsular ve göllerin shp uzantılı haritaları bulunmaktadır.
