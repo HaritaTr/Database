@@ -4,6 +4,10 @@
 
 + Türkiye paftaları bulunmakta içerisinde.
 
+### Türkiye Pafta Bölümlemesi.zip
+
++ Türkiye pafta bölümleri bulunmaktadır. 
+
 ### Türkiye boş pafta indeksi.pdf
 
 + Türkiye boş pafta indeksi.
