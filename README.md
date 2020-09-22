@@ -1,5 +1,9 @@
 # Türkiye hakkındaki veri dosyalarının içerikleri: 
 
+### Korunan alanlar, milli parklar, tabiat anıtları, yaban hayatını geliştirme sahaları ve sulak alanlar.zip
+
++ Korunan alanlar, milli parklar, tabiat anıtları, yaban hayatını geliştirme sahaları ve sulak alanlar ile ilgili haritalar bulunmaktadır.
+
 ### Pafta.zip
 
 + Türkiye paftaları bulunmakta içerisinde.
