@@ -6,7 +6,7 @@
 
 ### Pafta.zip
 
-+ Türkiye paftaları bulunmakta içerisinde.
++ .kmz uzantılı Türkiye paftaları bulunmakta içerisinde.
 
 ### Türkiye Pafta Bölümlemesi.zip
 
